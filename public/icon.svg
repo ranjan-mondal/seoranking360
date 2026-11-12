@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <defs>
+    <linearGradient id="seoFaviconGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffc329" />
+      <stop offset="100%" stop-color="#ffa800" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded Squircle Background -->
+  <rect width="32" height="32" rx="7" fill="url(#seoFaviconGrad)" />
+  
+  <!-- 3 Ascending SEO Ranking Columns matching ChartNoAxesColumn in BrandLogo -->
+  <line x1="8" y1="25" x2="8" y2="17" stroke="#031d2b" stroke-width="3.2" stroke-linecap="round" />
+  <line x1="16" y1="25" x2="16" y2="7" stroke="#031d2b" stroke-width="3.2" stroke-linecap="round" />
+  <line x1="24" y1="25" x2="24" y2="12" stroke="#031d2b" stroke-width="3.2" stroke-linecap="round" />
+</svg>
+
